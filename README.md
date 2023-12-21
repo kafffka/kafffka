@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hi, I'm Mark Mazurov
+Android developer at [Rebtel](https://www.rebtel.com/). Previously worked on the [myshows.me app](https://play.google.com/store/apps/details?id=ru.myshows.app).
 
+### Connect with me:
+<p align="left">
+<a href="https://twitter.com/mazurur" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="chrisbanes" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mazurur" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="chrisbanes" height="30" width="40" /></a>
+</p>
+  
 <!--
 **kafffka/kafffka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
